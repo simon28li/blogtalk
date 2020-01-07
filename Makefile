@@ -1,3 +1,3 @@
-test:
-	gcc test.c -o test	
+li:
+	gcc test.c -o li	
 
